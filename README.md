@@ -6,3 +6,5 @@ To test this assessment, simply follow the steps below:
 * run `docker run sca-ruby-assessment` to test.
 
 The last command should output `Welcome to SCA Cloud School Application , this is my first assessment`
+
+Link to [dockerhub image](https://hub.docker.com/repository/docker/nkemjiks/sca-ruby-assessment)
